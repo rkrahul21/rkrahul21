@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [College Alumni Website](https://github.com/IT-MITMAAI/mitmaai-n14)
 
-- 🌱 I’m currently learning **Saas, Prisma, Clerk**
-
 - 💬 Ask me about **react, Next, aws**
 
 - 📫 How to reach me **krahul8197@gmail.com**
@@ -31,4 +29,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rkrahul21&theme=nord" alt="Rahul Kumar's GitHub Stats" width=45.7% />
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrahul21&theme=nord&show_icons=true&layout=compact" alt="rkrahul21's GitHub Stats" height="180px" />
+
+  <!-- coding platform graph -->
+  <h2 align="center">🏆 Competitive Programming</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rkumar21?ext=contest" alt="LeetCode Stats" width="45%"/>
+</p>
+
+<h3 align="center">🐍 Snake Animation</h3>
+<p align="center">
+  <img src="https://github.com/rkrahul21/rkrahul21/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/rkrahul21/rkrahul21/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+</p>
 
