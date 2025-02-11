@@ -36,9 +36,5 @@
   <img src="https://leetcard.jacoblin.cool/rkumar21?ext=contest" alt="LeetCode Stats" width="45%"/>
 </p>
 
-<h3 align="center">🐍 Snake Animation</h3>
-<p align="center">
-  <img src="https://github.com/rkrahul21/rkrahul21/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/rkrahul21/rkrahul21/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
-</p>
+
 
